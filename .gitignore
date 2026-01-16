@@ -1,0 +1,14 @@
+# Build output
+target/
+
+# Compiled files
+*.class
+*.jar
+*.log
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
